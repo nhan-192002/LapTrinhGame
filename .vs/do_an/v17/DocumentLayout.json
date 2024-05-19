@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM_4\\laptrinhgame\\do_an\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|d:\\nam_4\\laptrinhgame\\do_an\\assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB9956-CA4C-3FEF-1DA7-02826471AC45}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\nam_4\\laptrinhgame\\do_an\\assets\\scripts\\waypoinfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\waypoinfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NAM_4\\laptrinhgame\\do_an\\assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndMenu.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndMenu.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:05:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:52:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:47:16.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaypointFollower.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\WaypointFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaypointFollower.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\WaypointFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaypointFollower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:54:02.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:03:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:19:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:59:57.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerLife.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLife.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLife.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:13:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:58:46.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemCollector.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollector.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCollector.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:06:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WaypoinFollower.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\WaypoinFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaypoinFollower.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\Scripts\\WaypoinFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaypoinFollower.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:56:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\CameraController.cs",
+              "RelativeToolTip": "Assets\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:49:02.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\NAM_4\\laptrinhgame\\do_an\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:59:44.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
